@@ -1,1 +1,6 @@
 ## Python has very easy way of getting User Input using command Input()
+## within input we can type prompt between (2 brackets)
+new_learning = input("what would like me to learn today ? ")
+why = input("Why do wish to learn this ? ")
+print("Good Luck, Learning " + new_learning)
+print("Hope you achive your goal of "+ why )
